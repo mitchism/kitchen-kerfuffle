@@ -1,7 +1,7 @@
 # kitchen-kerfuffle
 In a pinch? Feed me a list of recipes, and get a great meal to cook!
 
-The database is a JSON-structure file in ./recipedata/
+The database is a JSON-structure file in `./recipedata/` 
 The object classes, function definitions, and main script are in ./kitchen_kerfuffle/
 The html template that search results table is populated into is ./templates/  
 
