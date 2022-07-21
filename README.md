@@ -2,10 +2,10 @@
 In a pinch? Feed me a list of recipes, and get a great meal to cook!
 
 The database is a JSON-structure file in `./recipedata/`. <br>
-The object classes, function definitions, and main script are in ./kitchen_kerfuffle/
-The html template that search results table is populated into is ./templates/  
+The object classes, function definitions, and main script are in `./kitchen_kerfuffle/`. <br>
+The html template that search results table is populated into is `./templates/`. <br>  
 
-to use the app: 
+## to use the app: 
 1) download the source code
 2) In python execute ./kitchen_kerfuffle/kitchen_kerfuffle.py
 3) after step 2, an interactive prompt will follow. enter whichever ingredients you'd like to use.
